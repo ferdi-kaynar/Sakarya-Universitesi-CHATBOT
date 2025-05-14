@@ -1,0 +1,123 @@
+{
+    "universite_genel": {
+        "ad": "Sakarya Üniversitesi (SAÜ)",
+        "kurulus": "1992",
+        "kampus": "Esentepe Kampüsü, Serdivan",
+        "ogrenci_sayisi": "Yaklaşık 100.000",
+        "birim_sayilari": {
+            "fakulte": 16,
+            "yuksekokul": 2,
+            "konservatuvar": 1,
+            "meslek_yuksekokulu": 17,
+            "enstitu": 7
+        },
+        "vizyon": "Evrensel nitelikte bilgi ve teknoloji üreterek uluslararası alanda eğitim, araştırma ve girişimcilik alanlarında öncü bir üniversite",
+        "akreditasyonlar": ["ECTS etiketi", "Diploma Eki Etiketi"]
+    },
+    "genel_bilgiler": {
+        "kurulus_tarihi": {
+            "yil": 1992,
+            "koken": "1970 yılında kurulan Sakarya Mühendislik ve Mimarlık Yüksekokulu"
+        },
+        "konum": "Serdivan, Sakarya, Türkiye",
+        "rektor": "Prof. Dr. Hamza Al",
+        "web_sitesi": "https://www.sakarya.edu.tr"
+    },
+    "akademik_birimler": {
+        "fakulteler": [
+            "Mühendislik Fakültesi",
+            "Fen-Edebiyat Fakültesi",
+            "İlahiyat Fakültesi",
+            "Teknik Eğitim Fakültesi",
+            "Eğitim Fakültesi",
+            "Güzel Sanatlar Fakültesi",
+            "Tıp Fakültesi",
+            "Teknoloji Fakültesi",
+            "Sağlık Bilimleri Fakültesi",
+            "Bilgisayar ve Bilişim Bilimleri Fakültesi",
+            "İşletme Fakültesi",
+            "Hukuk Fakültesi",
+            "İletişim Fakültesi",
+            "Siyasal Bilgiler Fakültesi",
+            "Sanat Tasarım ve Mimarlık Fakültesi",
+            "Diş Hekimliği Fakültesi"
+        ],
+        "enstituler": [
+            "Eğitim Bilimleri Enstitüsü",
+            "Fen Bilimleri Enstitüsü",
+            "İşletme Enstitüsü",
+            "Orta Doğu Enstitüsü",
+            "Sağlık Bilimleri Enstitüsü",
+            "Sosyal Bilimler Enstitüsü"
+        ]
+    },
+    "kampus_ve_yerleske": {
+        "ana_kampus": "Esentepe Kampüsü, Serdivan",
+        "diger_yerleskeler": {
+            "egitim_fakultesi": "Hendek",
+            "turizm_fakultesi": "Sapanca",
+            "tip_fakultesi": "Korucuk Mahallesi",
+            "ilahiyat_fakultesi": "Ozanlar Mahallesi",
+            "meslek_yuksekokulu": "Camili Mahallesi"
+        }
+    },
+    "kampus_olanaklari": {
+        "kutuphane": "Geniş bir kütüphane, öğrencilere ve akademisyenlere hizmet vermektedir",
+        "laboratuvarlar": "Mühendislik, Fen ve Sağlık alanlarında modern laboratuvarlar",
+        "spor_tesisleri": "Kapalı spor salonu, açık spor alanları ve çeşitli spor etkinlikleri",
+        "yemekhane": "Öğrencilere ve personellere hizmet veren yemekhane ve kafeteryalar",
+        "saglik_hizmetleri": "Kampüs içinde sağlık hizmetleri"
+    },
+    "ogrenci_yasami": {
+        "barinma": "Kampüs içinde ve çevresinde devlet ve özel yurtlar",
+        "ulasim": "Şehir içi ulaşım imkanları",
+        "ogrenci_kulupleri": "Farklı ilgi alanlarına yönelik öğrenci kulüpleri",
+        "etkinlikler": "Yıl boyunca çeşitli sosyal ve kültürel etkinlikler"
+    },
+    "akademik_basarilar": {
+        "qs_eeca_siralamasi": {
+            "yil": 2022,
+            "sira": "221-230"
+        },
+        "urap_turkiye_siralamasi": {
+            "yil": 2025,
+            "sira": 28
+        }
+    },
+    "bilgisayar_muhendisligi": {
+        "genel_bilgiler": {
+            "bolum_adi": "Bilgisayar Mühendisliği",
+            "fakulte": "Bilgisayar ve Bilişim Bilimleri Fakültesi",
+            "web_sitesi": "cs.sakarya.edu.tr",
+            "bolum_baskani": "Prof. Dr. Ahmet Zengin",
+            "iletisim": {
+                "email": "azengin@sakarya.edu.tr",
+                "telefon": "+90 (264) 295 70 00"
+            }
+        },
+        "akademik_kadro": [
+            "Prof. Dr. Ahmet Zengin",
+            "Prof. Dr. Celal Çeken",
+            "Prof. Dr. Cemil Öz",
+            "Prof. Dr. Cüneyt Bayılmış",
+            "Prof. Dr. İbrahim Özçelik",
+            "Prof. Dr. Nejat Yumuşak",
+            "Prof. Dr. Nilüfer Yurtay"
+        ],
+        "egitim_programlari": {
+            "lisans": "Temel mühendislik, programlama, veri yapıları, algoritmalar, yazılım mühendisliği",
+            "lisansustu": "Yüksek lisans ve doktora programları"
+        },
+        "laboratuvarlar": [
+            "Bilgisayar Ağları Laboratuvarı",
+            "Gerçek Zamanlı Ağ Laboratuvarı",
+            "Genel Amaçlı Yazılım Laboratuvarları",
+            "Sanal Gerçeklik/Bilgisayarlı Görme/Yapay Zeka Laboratuvarı"
+        ],
+        "ogrenci_bilgileri": {
+            "topluluklar": true,
+            "staj_ve_umde": true,
+            "erasmus_farabi": true
+        }
+    }
+} 
